@@ -14,13 +14,30 @@ visits = [
 
 # 1. Print each visit as:   Ana – Impressionism
 #    (that's an en dash: copy it from this line –)
+for visit in visits:
+    print(f"{visit['visitor']} – {visit['gallery']}")
 
 # 2. Print a blank line. Then, for each visit, print "long" if minutes is 30 or more, otherwise "short":
 #       Ana: short
 #    Gus has no "minutes". Use .get() so a missing value counts as 0.
+print()
+for visit in visits:
+    minutes = visit.get("minutes", 0)
+    if minutes >= 30:
+        print(f"{visit['visitor']}: long")
+    else:
+        print(f"{visit['visitor']}: short")
 
 # 3. Print a blank line. Then build a dictionary counting visits per gallery, and print it:
 #       {'Impressionism': 3, 'Modern': 2, 'Photography': 2}
+print()
+gallery_counts = {}
+
+for visit in visits:
+    gallery = visit["gallery"]
+    gallery_counts[gallery] = gallery_counts.get(gallery, 0) + 1
+
+print(gallery_counts)
 
 # BONUS (optional): Is Gus really "short"?
 # In #2, .get("minutes", 0) labeled Gus "short." But we don't know how long Gus stayed.
