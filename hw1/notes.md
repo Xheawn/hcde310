@@ -26,7 +26,7 @@
 
 The prediction matched the output. The loop uses positions 0, 1, and 2 because `range(3)` stops before 3.
 Each line prints the position, the title at that position, and its year plus
-100.And The last two lines measure different things: `len(titles)` counts the
+100. The last two lines measure different things: `len(titles)` counts the
 10 items in the list, while `len(titles[0])` counts the 11 characters in
 "The Bedroom", including the space.
 
@@ -38,3 +38,5 @@ artist, and the era. Those choices could be stored in a list, with a loop
 creating a button for each one. An `if` could check which perspective is
 selected and decide which text to display. The selected woman has a dark
 button and a highlighted outline, so a condition could control those styles.
+The questions below her story could also come from a list. These are
+inferences from the screenshot, rather than verified details of the code.
