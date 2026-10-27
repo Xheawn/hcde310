@@ -1,0 +1,902 @@
+[
+  {
+    "_score": 58.3208,
+    "id": 144762,
+    "title": "Frozen Foods with String Beans, New York",
+    "date_display": "1977, printed 1993",
+    "medium_display": "Dye imbibition print",
+    "artist_title": "Irving Penn",
+    "image_id": "fd4c3a80-f2fb-9cf5-815b-a9ddf1bad769"
+  },
+  {
+    "_score": 52.86176,
+    "id": 144767,
+    "title": "Italian Still Life (B), New York",
+    "date_display": "1981, printed 1992",
+    "medium_display": "Dye imbibition print",
+    "artist_title": "Irving Penn",
+    "image_id": "5484e05e-f071-aa5c-046f-9e2d35d3bc21"
+  },
+  {
+    "_score": 52.188232,
+    "id": 144749,
+    "title": "New York Still Life",
+    "date_display": "1947, printed August/September 1978",
+    "medium_display": "Platinum-palladium print",
+    "artist_title": "Irving Penn",
+    "image_id": "f4dec308-101f-c3e5-50f0-ad5d4111e87e"
+  },
+  {
+    "_score": 50.97623,
+    "id": 23643,
+    "title": "Dead Fowl",
+    "date_display": "1926",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Chaim Soutine",
+    "image_id": "bdd11ec2-6566-0d64-dadf-8d1865d93ca3"
+  },
+  {
+    "_score": 49.145206,
+    "id": 64001,
+    "title": "Apples",
+    "date_display": "1916",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Henri Matisse",
+    "image_id": "b2bc0fc2-8d17-1fcd-8cae-8626421c11ef"
+  },
+  {
+    "_score": 48.351303,
+    "id": 218356,
+    "title": "The Greatest Crime in Christendom",
+    "date_display": "c. 1918",
+    "medium_display": "Lithograph on off-white paper",
+    "artist_title": "United States Food Administration",
+    "image_id": "b1b17b4b-efc5-c8b3-4f4c-8fe469818de6"
+  },
+  {
+    "_score": 47.63489,
+    "id": 10410,
+    "title": "Tazza",
+    "date_display": "c. 1678-85",
+    "medium_display": "Tin-glazed earthenware (Delftware)",
+    "artist_title": "Grieksche A Factory",
+    "image_id": "537691dc-011d-99a4-28db-c58b43a4b020"
+  },
+  {
+    "_score": 47.226,
+    "id": 34078,
+    "title": "Food container",
+    "date_display": "Western Zhou dynasty ( 1046\u2013771 BC ), 2nd half of 11th century BC",
+    "medium_display": "Bronze",
+    "image_id": "982ef7d9-36e7-a630-ed05-81d67537b2f9",
+    "artist_title": null
+  },
+  {
+    "_score": 45.172543,
+    "id": 144770,
+    "title": "Pear (C), New York",
+    "date_display": "1993, printed June/July 1994",
+    "medium_display": "Platinum-palladium print",
+    "artist_title": "Irving Penn",
+    "image_id": "c73e1235-ec4e-b54e-7e84-933dcbccab00"
+  },
+  {
+    "_score": 45.096367,
+    "id": 156596,
+    "title": "Fruit Piece",
+    "date_display": "1860",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Hannah Brown Skeele",
+    "image_id": "998674f9-207f-6b56-8ece-79a6a5039a2a"
+  },
+  {
+    "_score": 44.65134,
+    "id": 55833,
+    "title": "Covered Food Container",
+    "date_display": "Western Zhou dynasty ( 1046\u2013771 BC ), mid\u20139th century B.C.",
+    "medium_display": "Bronze",
+    "image_id": "8b4cd593-6570-15ce-0c76-23c0504b89cb",
+    "artist_title": null
+  },
+  {
+    "_score": 44.10862,
+    "id": 18709,
+    "title": "The Frugal Meal, from The Saltimbanques",
+    "date_display": "September 1904",
+    "medium_display": "Etching on zinc in blue-green on ivory laid paper (discolored to cream)",
+    "artist_title": "Pablo Picasso",
+    "image_id": "bf1f0174-0711-c3f8-f188-8192022c3257"
+  },
+  {
+    "_score": 43.16204,
+    "id": 185685,
+    "title": "Bottle",
+    "date_display": "Early/mid\u201320th century",
+    "medium_display": "Terracotta",
+    "artist_title": "Teke",
+    "image_id": "44960854-05d3-780b-0bb5-5d47abc9b61c"
+  },
+  {
+    "_score": 42.4288,
+    "id": 7934,
+    "title": "Platter",
+    "date_display": "c. 1760\u2013c. 1800",
+    "medium_display": "Hard-paste porcelain with polychrome enamels and gilding",
+    "image_id": "9794ffdb-e20e-9275-20fc-4204f0e06405",
+    "artist_title": null
+  },
+  {
+    "_score": 42.313324,
+    "id": 120154,
+    "title": "Still Life\u2014Strawberries, Nuts, &c.",
+    "date_display": "1822",
+    "medium_display": "Oil on wood panel",
+    "artist_title": "Raphaelle Peale",
+    "image_id": "1cddae1c-99d5-462f-4aa6-128c0732ac11"
+  },
+  {
+    "_score": 42.269264,
+    "id": 37423,
+    "title": "Covered Food Container",
+    "date_display": "Western Zhou dynasty ( 1046\u2013771 BC ), mid\u201310th century BC",
+    "medium_display": "Bronze",
+    "image_id": "d5294fa8-caf1-fde3-7c30-805f3116c4e4",
+    "artist_title": null
+  },
+  {
+    "_score": 41.43012,
+    "id": 49657,
+    "title": "Portrait of Natalia Goncharova and Mikhail Larionov",
+    "date_display": "1913",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Aleksei Alekseevich Morgunov",
+    "image_id": "e0821a3f-9f3a-88d2-cc5b-d0672489a790"
+  },
+  {
+    "_score": 40.12592,
+    "id": 25865,
+    "title": "The Herring Net",
+    "date_display": "1885",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Winslow Homer",
+    "image_id": "5dca7347-c6dc-24dd-d073-d705b9cdc575"
+  },
+  {
+    "_score": 39.621735,
+    "id": 234687,
+    "title": "Tureen",
+    "date_display": "1883",
+    "medium_display": "Silver",
+    "artist_title": "Gorham Manufacturing Company",
+    "image_id": "81514f25-e9b5-0c47-688d-d903c34ecefc"
+  },
+  {
+    "_score": 38.836475,
+    "id": 185714,
+    "title": "Couscous Platter",
+    "date_display": "Early/mid\u201320th century",
+    "medium_display": "Terracotta and pigment",
+    "artist_title": "A\u00eft bou Addou",
+    "image_id": "e528c7bf-5420-539c-fba2-fd31394bbf07"
+  },
+  {
+    "_score": 38.32753,
+    "id": 144769,
+    "title": "Onion, Plum, and Garlic, New York",
+    "date_display": "1993, printed April/June 1994",
+    "medium_display": "Platinum-palladium print",
+    "artist_title": "Irving Penn",
+    "image_id": "88b54c65-5434-fe5c-761a-80d780fd5fce"
+  },
+  {
+    "_score": 36.565784,
+    "id": 19333,
+    "title": "Kitchen Still Life",
+    "date_display": "c. 1640",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Paolo Antonio Barbieri",
+    "image_id": "29163982-8310-36bb-3530-2b5000ce7290"
+  },
+  {
+    "_score": 36.202328,
+    "id": 111436,
+    "title": "The Basket of Apples",
+    "date_display": "c. 1893",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Paul Cezanne",
+    "image_id": "52ac8996-3460-cf71-cb42-5c4d0aa29b74"
+  },
+  {
+    "_score": 36.17171,
+    "id": 202966,
+    "title": "Food Basket",
+    "date_display": "1870\u201390",
+    "medium_display": "Plant fibers and pigment",
+    "artist_title": "Maidu",
+    "image_id": "6771f356-b7ba-8e05-be9c-31c3a2541484"
+  },
+  {
+    "_score": 35.64745,
+    "id": 144751,
+    "title": "Still Life with with Onion Skin, New York",
+    "date_display": "1947, printed 1991",
+    "medium_display": "Gelatin silver print",
+    "artist_title": "Irving Penn",
+    "image_id": "9e50c220-72b9-8427-21c5-0440e916c16b"
+  },
+  {
+    "_score": 35.335464,
+    "id": 220535,
+    "title": "Untitled (Fast Food)",
+    "date_display": "1974",
+    "medium_display": "Graphite, with erasing, and black and colored pencil and colored crayon, ruled in graphite and black pencil, on two sheets of ivory wove paper, pieced with linen tape",
+    "artist_title": "Saul Steinberg",
+    "image_id": "d849d3d1-d37a-1d25-bc78-c525dd8aa3fd"
+  },
+  {
+    "_score": 35.018944,
+    "id": 120578,
+    "title": "Tripod Food Container (Li)",
+    "date_display": "Shang dynasty, Erligang period (c. 1500\u20131400 B.C.)",
+    "medium_display": "Bronze",
+    "image_id": "dc3abfd6-756d-f928-8327-05e6e085d42c",
+    "artist_title": null
+  },
+  {
+    "_score": 34.615383,
+    "id": 84709,
+    "title": "Still Life with Game Fowl",
+    "date_display": "c. 1600\u20133",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Juan S\u00e1nchez Cot\u00e1n",
+    "image_id": "f2021182-1302-f76f-97f1-4e7850030e3b"
+  },
+  {
+    "_score": 34.401825,
+    "id": 144750,
+    "title": "Still Life with Mouse, New York",
+    "date_display": "1947",
+    "medium_display": "Gelatin silver print",
+    "artist_title": "Irving Penn",
+    "image_id": "eeb83fc7-5196-ffab-4af2-33aab0f75bb8"
+  },
+  {
+    "_score": 33.94719,
+    "id": 154121,
+    "title": "Calf's Head and Ox Tongue",
+    "date_display": "c. 1882",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Gustave Caillebotte",
+    "image_id": "0274aa9e-95d1-2a8e-12e3-2b09d7749b4f"
+  },
+  {
+    "_score": 33.169403,
+    "id": 65811,
+    "title": "The Plate of Apples",
+    "date_display": "c. 1877",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Paul Cezanne",
+    "image_id": "2e6d6a89-61bd-5098-59d3-b41d14bf7973"
+  },
+  {
+    "_score": 32.9009,
+    "id": 62042,
+    "title": "Still Life with Dead Game, Fruits, and Vegetables in a Market",
+    "date_display": "1614",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Frans Snyders",
+    "image_id": "d9bde524-38b2-4262-3338-e4d06a50746d"
+  },
+  {
+    "_score": 32.891125,
+    "id": 185706,
+    "title": "Container for Palm Wine",
+    "date_display": "Early/mid\u201320th century",
+    "medium_display": "Terracotta",
+    "artist_title": "Yamba",
+    "image_id": "f3fb2580-ae14-eb07-360c-efdc378f45c0"
+  },
+  {
+    "_score": 32.767902,
+    "id": 142413,
+    "title": "Celery Dish (American Modern Dinnerware)",
+    "date_display": "1937\u201359",
+    "medium_display": "Earthenware and glaze",
+    "artist_title": "Russel Wright",
+    "image_id": "cd70f86a-69e7-7de0-d49b-cbb31d6d7679"
+  },
+  {
+    "_score": 32.629463,
+    "id": 63264,
+    "title": "Caravetta Foods, Chicago",
+    "date_display": "1969",
+    "medium_display": "Gelatin silver print",
+    "artist_title": "Jos\u00e9 Lopez",
+    "image_id": "fefce6dd-4175-2e42-7f4b-0a8d85eb9eac"
+  },
+  {
+    "_score": 32.56737,
+    "id": 74600,
+    "title": "Glass Cooler (Monteith)",
+    "date_display": "1702\u20133",
+    "medium_display": "Silver",
+    "artist_title": "Thomas Bolton",
+    "image_id": "c2af02bc-fedd-917c-caaf-b852905f3756"
+  },
+  {
+    "_score": 32.413605,
+    "id": 44742,
+    "title": "Are They Thinking about the Grape? (Pensent-ils au raisin?)",
+    "date_display": "1747",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Fran\u00e7ois Boucher",
+    "image_id": "12662645-5164-4bb1-cfec-3517a4c9779c"
+  },
+  {
+    "_score": 31.816895,
+    "id": 21682,
+    "title": "Still Life",
+    "date_display": "c. 1625",
+    "medium_display": "Oil on panel",
+    "artist_title": "Pieter Claesz",
+    "image_id": "574695d5-6bf3-fe58-a1d5-e6cbb5e10c77"
+  },
+  {
+    "_score": 31.276781,
+    "id": 157162,
+    "title": "Bacchus Feeding a Panther",
+    "date_display": "1792",
+    "medium_display": "Marble",
+    "artist_title": "John Deare",
+    "image_id": "5b6775b2-e395-3fde-f989-68fe862081c3"
+  },
+  {
+    "_score": 31.175522,
+    "id": 44892,
+    "title": "Fish (Still Life)",
+    "date_display": "1864",
+    "medium_display": "Oil on canvas",
+    "artist_title": "\u00c9douard Manet",
+    "image_id": "0cbe27e8-2fec-3445-bc48-ce40a8f2dc25"
+  },
+  {
+    "_score": 31.083797,
+    "id": 127859,
+    "title": "Stela of Amenemhat and Hemet",
+    "date_display": "Middle Kingdom, early Dynasty 12, about 1956\u20131877 BCE",
+    "medium_display": "Limestone and pigment",
+    "artist_title": "Ancient Egyptian",
+    "image_id": "9365a024-75ce-75e9-756f-1c2c96eadec9"
+  },
+  {
+    "_score": 30.8795,
+    "id": 94579,
+    "title": "Food for the Moon",
+    "date_display": "1972",
+    "medium_display": "Pen and brush and black ink, over graphite, on off-white board",
+    "artist_title": "Charlotte Hart",
+    "image_id": "bfcea902-d032-bdcc-d5e9-98415fa71bca"
+  },
+  {
+    "_score": 30.773317,
+    "id": 158475,
+    "title": "Compote on Stand",
+    "date_display": "1845\u201360",
+    "medium_display": "Pressed lead glass",
+    "artist_title": "Boston and Sandwich Glass Company",
+    "image_id": "e22b8987-cdae-4881-79b3-1984983e6cd0"
+  },
+  {
+    "_score": 30.481043,
+    "id": 16549,
+    "title": "Apples and Grapes",
+    "date_display": "1880",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Claude Monet",
+    "image_id": "c12058f4-188f-c6ed-f0fe-52b32acfb296"
+  },
+  {
+    "_score": 30.451767,
+    "id": 58052,
+    "title": "Christ Washing the Feet of His Disciples",
+    "date_display": "1720\u201330",
+    "medium_display": "Oil on panel",
+    "artist_title": "Nicolas Bertin",
+    "image_id": "44fce132-4eb4-7541-06c5-1b6f61c32912"
+  },
+  {
+    "_score": 30.365702,
+    "id": 55134,
+    "title": "Butter Dish and Stand",
+    "date_display": "c. 1775",
+    "medium_display": "Tin-glazed earthenware (faience)",
+    "artist_title": "Aprey Pottery Factory",
+    "image_id": "b65ed4c5-467a-5605-8d5a-cd746124bd1f"
+  },
+  {
+    "_score": 30.338629,
+    "id": 185655,
+    "title": "Water Container",
+    "date_display": "Early/mid\u201320th century",
+    "medium_display": "Terracotta and pigment",
+    "artist_title": "Zarma",
+    "image_id": "7e28a5a8-f329-6eef-58ab-6edb4b645e85"
+  },
+  {
+    "_score": 29.930405,
+    "id": 58999,
+    "title": "Still Life with Fruit",
+    "date_display": "1890",
+    "medium_display": "Oil on canvas",
+    "artist_title": "\u00c9mile Bernard",
+    "image_id": "d349a360-3690-bbc4-5883-22f4cd8bac84"
+  },
+  {
+    "_score": 29.905685,
+    "id": 120365,
+    "title": "Relief Fragment Depicting Merettetiiyet with Offerings",
+    "date_display": "First Intermediate Period, Dynasty 10, about 2050 BCE",
+    "medium_display": "Limestone and pigment",
+    "artist_title": "Ancient Egyptian",
+    "image_id": "f8549781-eb13-52d3-07f0-92671e149c93"
+  },
+  {
+    "_score": 29.492521,
+    "id": 16997,
+    "title": "Compote",
+    "date_display": "1830\u201345",
+    "medium_display": "Pressed lead glass",
+    "artist_title": "Boston and Sandwich Glass Company",
+    "image_id": "8ff2f46d-78ed-2255-c2a5-bdfc042105a1"
+  },
+  {
+    "_score": 29.416882,
+    "id": 204509,
+    "title": "Pig 05049",
+    "date_display": "2007",
+    "medium_display": "Paper",
+    "artist_title": "Christien Meindertsma",
+    "image_id": "09a748bd-0c39-4633-e9ef-3c1202d23c97"
+  },
+  {
+    "_score": 29.28473,
+    "id": 187773,
+    "title": "Ding Dong Daddy #15.2 Foods",
+    "date_display": "1968",
+    "medium_display": "Color lithograph on ivory Japanese paper",
+    "artist_title": "William Aubrey Walmsley",
+    "image_id": "489eea6c-eff0-8929-8383-5056aabb597e"
+  },
+  {
+    "_score": 29.272858,
+    "id": 62549,
+    "title": "Salver",
+    "date_display": "c. 1715",
+    "medium_display": "Silver",
+    "artist_title": "Edward Winslow",
+    "image_id": "b359619d-e9d4-8225-299d-3b40221a28c0"
+  },
+  {
+    "_score": 28.955423,
+    "id": 81555,
+    "title": "Lunch at the Restaurant Fournaise (The Rowers' Lunch)",
+    "date_display": "1875",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Pierre-Auguste Renoir",
+    "image_id": "1a1b74fe-ff2a-8991-0581-5d420f0b840e"
+  },
+  {
+    "_score": 28.800318,
+    "id": 89981,
+    "title": "Punch Strainer",
+    "date_display": "1743\u201360",
+    "medium_display": "Silver",
+    "artist_title": "William Simpkins",
+    "image_id": "4c01e98c-83c2-e0b4-716d-444e0f56281d"
+  },
+  {
+    "_score": 28.724237,
+    "id": 47560,
+    "title": "Octagonal Serving Platter",
+    "date_display": "18th century",
+    "medium_display": "Jade",
+    "image_id": "43b9132a-1f73-18c4-995e-2ce1d929f8c8",
+    "artist_title": null
+  },
+  {
+    "_score": 28.620779,
+    "id": 195461,
+    "title": "Covered Vessel with the Principal Bird and Peccary Heads",
+    "date_display": "200\u2013300 CE",
+    "medium_display": "Ceramic and pigment",
+    "artist_title": "Maya",
+    "image_id": "0e590bc5-d61d-92e6-4e3f-9d374e9f9438"
+  },
+  {
+    "_score": 28.620687,
+    "id": 148101,
+    "title": "Log Cabin Covered Compote",
+    "date_display": "1875\u201396",
+    "medium_display": "Pressed glass",
+    "artist_title": "Central Glass Company",
+    "image_id": "4fb85024-b8b6-0e0e-1bce-e1a879497113"
+  },
+  {
+    "_score": 28.522718,
+    "id": 497,
+    "title": "A Mother Feeding her Child (The Happy Mother)",
+    "date_display": "1707",
+    "medium_display": "Oil on panel",
+    "artist_title": "Willem van Mieris",
+    "image_id": "a9a3e2fa-f7a4-2713-00ed-909062cb48d7"
+  },
+  {
+    "_score": 28.130564,
+    "id": 148077,
+    "title": "Pioneer Covered Compote",
+    "date_display": "c. 1870",
+    "medium_display": "Glass",
+    "artist_title": "Gillander and Sons Glass Works",
+    "image_id": "84a55000-3f85-8779-ba2b-e354284c5a3a"
+  },
+  {
+    "_score": 28.03191,
+    "id": 64957,
+    "title": "Grapes, Lemons, Pears, and Apples",
+    "date_display": "1887",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Vincent van Gogh",
+    "image_id": "f11bd233-6cc3-4221-59eb-f7363be4119e"
+  },
+  {
+    "_score": 27.710146,
+    "id": 153705,
+    "title": "Foliage\u2014Oak Tree and Fruit Seller",
+    "date_display": "1918",
+    "medium_display": "Distemper on canvas",
+    "artist_title": "\u00c9douard Jean Vuillard",
+    "image_id": "e170725f-cc12-cb0f-841e-8b1ea918933e"
+  },
+  {
+    "_score": 27.657448,
+    "id": 148110,
+    "title": "Log Cabin Covered Compote",
+    "date_display": "c. 1875",
+    "medium_display": "Pressed glass",
+    "artist_title": "Central Glass Company",
+    "image_id": "e4019af4-7410-5cc9-846a-4c5c751284b5"
+  },
+  {
+    "_score": 27.11592,
+    "id": 49664,
+    "title": "Cleopatra and Antony Enjoying Supper from The Story of Caesar and Cleopatra",
+    "date_display": "c. 1680",
+    "medium_display": "Wool and silk, slit and double interlocking tapestry weave\nWarp: Count: 9 warps per cm; wool: S-ply of four Z-spun elements; diameters: 0.8\u20131.1 mm\nWeft: Count: varies from 18 to 46 wefts per cm; wool: S-ply of two Z-spun elements; diameters: 0.3\u20130.8 mm; silk: pairs of S-ply of two Z-twisted elements; diameters: 0.6\u20131.0 mm",
+    "artist_title": "Workshop of Gerard Peemans",
+    "image_id": "11527684-d062-cb63-dac5-182bc7992c80"
+  },
+  {
+    "_score": 27.029133,
+    "id": 185659,
+    "title": "Storage Container",
+    "date_display": "Early/mid\u201320th century",
+    "medium_display": "Terracotta and slip",
+    "artist_title": "Nuna",
+    "image_id": "1584ce7d-87c3-d234-b409-5bc3d1faf4f7"
+  },
+  {
+    "_score": 26.840075,
+    "id": 16629,
+    "title": "Fruits of the Midi",
+    "date_display": "1881",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Pierre-Auguste Renoir",
+    "image_id": "3e005f8a-d37f-871b-15bb-89756f1ed2e9"
+  },
+  {
+    "_score": 26.687944,
+    "id": 185686,
+    "title": "Jar",
+    "date_display": "Early/mid\u201320th century",
+    "medium_display": "Terracotta",
+    "artist_title": "Mangbetu",
+    "image_id": "ae503301-1740-fcf9-2f50-bb30674919a8"
+  },
+  {
+    "_score": 26.522198,
+    "id": 70118,
+    "title": "Old Man Lighting a Pipe",
+    "date_display": "c. 1660",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Johann Carl Loth",
+    "image_id": "ec7c2bc7-7e9e-eb36-6edf-b5198533da10"
+  },
+  {
+    "_score": 26.440676,
+    "id": 100235,
+    "title": "Serving Spoon",
+    "date_display": "1754\u201375",
+    "medium_display": "Silver",
+    "artist_title": "John Bayly",
+    "image_id": "36dc6ba3-53a9-42f9-ac69-65472cb0d2c8"
+  },
+  {
+    "_score": 26.357641,
+    "id": 185695,
+    "title": "Water or Storage Container",
+    "date_display": "Early/mid\u201320th century",
+    "medium_display": "Terracotta and slip",
+    "artist_title": "Hausa",
+    "image_id": "e64f4df2-d057-7db2-2700-d9d8d0ee9f8a"
+  },
+  {
+    "_score": 26.198025,
+    "id": 147223,
+    "title": "Imperial Food Products Plant, Hamlet, North Carolina, from the series \"On This Site: Landscape in Memoriam\"",
+    "date_display": "June 1994, printed October 1994",
+    "medium_display": "Chromogenic print",
+    "artist_title": "Joel Sternfeld",
+    "image_id": "cc03cd20-8f80-9fde-6ab3-9efa2dc93641"
+  },
+  {
+    "_score": 26.139982,
+    "id": 52146,
+    "title": "Still Life with Fish and Shells",
+    "date_display": "1898",
+    "medium_display": "Oil on canvas",
+    "artist_title": "James Ensor",
+    "image_id": "47a66ae9-b3b8-82c9-beca-ad8cfd9c6a2a"
+  },
+  {
+    "_score": 26.103186,
+    "id": 148055,
+    "title": "Bullet & Emblem Covered Butter Dish",
+    "date_display": "1870\u20131900",
+    "medium_display": "Glass",
+    "artist_title": "Artist unknown",
+    "image_id": "acf0d941-e1d2-421c-3320-a0bc36e43601"
+  },
+  {
+    "_score": 26.043114,
+    "id": 185656,
+    "title": "Water Container",
+    "date_display": "Early/mid\u201320th century",
+    "medium_display": "Terracotta and pigment",
+    "artist_title": "Zarma",
+    "image_id": "dc20991e-2f91-844e-e78a-e0111e94b7de"
+  },
+  {
+    "_score": 25.962378,
+    "id": 88677,
+    "title": "Platter",
+    "date_display": "c. 1600",
+    "medium_display": "Lead-glazed earthenware",
+    "artist_title": "Bernard Palissy",
+    "image_id": "dd46b680-506e-ea2c-eea9-113ed5f0def3"
+  },
+  {
+    "_score": 25.957403,
+    "id": 39237,
+    "title": "Girl Bringing Food to Poor Children",
+    "date_display": "n.d.",
+    "medium_display": "Black crayon, with watercolor and gouache, on tan wove paper",
+    "artist_title": "Hablot Knight Browne",
+    "image_id": "6d7417b2-451b-516f-5151-c0c5fca45648"
+  },
+  {
+    "_score": 25.946053,
+    "id": 97099,
+    "title": "Sauce Set",
+    "date_display": "1902\u201308",
+    "medium_display": "Silver and champlev\u00e9 enamel",
+    "artist_title": "Mary Catherine Knight",
+    "image_id": "f2020d97-ba48-c3e3-6da3-66c82b57ac9d"
+  },
+  {
+    "_score": 25.819136,
+    "id": 117477,
+    "title": "The Maid",
+    "date_display": "c. 1875",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Fran\u00e7ois Bonvin",
+    "image_id": "035e8677-22c5-d349-d2a3-7a820e4f880d"
+  },
+  {
+    "_score": 25.700762,
+    "id": 212352,
+    "title": "Serving Spoon (from Taper set)",
+    "date_display": "1953",
+    "medium_display": "Silver",
+    "artist_title": "Arthur Jon Pulos",
+    "image_id": "99371580-5818-02b8-f49d-51db744d32b1"
+  },
+  {
+    "_score": 25.643692,
+    "id": 151340,
+    "title": "Untitled (Food Won't Go Down...), from Inflammatory Essays",
+    "date_display": "1979/82",
+    "medium_display": "Offset lithograph in black on pale green wove paper",
+    "artist_title": "Jenny Holzer",
+    "image_id": "9057002b-efb7-d2fe-2314-b30bac95fcf9"
+  },
+  {
+    "_score": 25.51252,
+    "id": 32965,
+    "title": "Fish Server",
+    "date_display": "c. 1815",
+    "medium_display": "Silver and ivory",
+    "artist_title": "Jean-Simon Chaudron",
+    "image_id": "6bae8e76-6a34-19bc-aa7a-564676ebfcb5"
+  },
+  {
+    "_score": 25.3853,
+    "id": 65847,
+    "title": "A Family Meal",
+    "date_display": "1890s (?)",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Evert Pieters",
+    "image_id": "d5b9b3c8-66b4-d061-43ee-307cc42e1ae6"
+  },
+  {
+    "_score": 25.259935,
+    "id": 146939,
+    "title": "Ceremonial Grinding Table (Metate) in the Form of a Feline",
+    "date_display": "500\u20131000",
+    "medium_display": "Volcanic stone",
+    "artist_title": "Nicoya",
+    "image_id": "9ff92517-5be6-c4f8-db1b-a3f37fcbbb66"
+  },
+  {
+    "_score": 25.252777,
+    "id": 148058,
+    "title": "Old Abe/Frosted Eagle Compote",
+    "date_display": "1880\u201390",
+    "medium_display": "Glass",
+    "artist_title": "Crystal Glass Company",
+    "image_id": "0d461aaa-e2fa-1830-fb68-41c1d4dc2d02"
+  },
+  {
+    "_score": 25.118717,
+    "id": 102123,
+    "title": "Tureen",
+    "date_display": "1852",
+    "medium_display": "Silver",
+    "artist_title": "William Gale & Son",
+    "image_id": "fe0f999f-0329-08a9-7df9-fd5d0dfe16cc"
+  },
+  {
+    "_score": 24.950922,
+    "id": 89350,
+    "title": "Berry Dish",
+    "date_display": "1859",
+    "medium_display": "Silver and gold wash",
+    "artist_title": "Tiffany and Company",
+    "image_id": "59f726c8-8f59-fd66-b336-a6322af49d41"
+  },
+  {
+    "_score": 24.939884,
+    "id": 72187,
+    "title": "Still Life with Jug and Knife",
+    "date_display": "1888\u201389",
+    "medium_display": "Oil on canvas",
+    "artist_title": "\u00c9douard Jean Vuillard",
+    "image_id": "ba44b949-8cd7-6aa2-6335-710e0f176315"
+  },
+  {
+    "_score": 24.865131,
+    "id": 40272,
+    "title": "Platter",
+    "date_display": "1755\u201365",
+    "medium_display": "Soft-paste porcelain, underglaze blue decoration",
+    "artist_title": "Bow Porcelain Factory",
+    "image_id": "6557333e-ed3d-f176-a9cc-b34d64f8aab0"
+  },
+  {
+    "_score": 24.842289,
+    "id": 51392,
+    "title": "The Donkey Laden with Food, from Emblematic Figures of Animals",
+    "date_display": "1633",
+    "medium_display": "Engraving on ivory laid paper",
+    "artist_title": "Adriaen Pietersz. van de Venne",
+    "image_id": "6a09b8f1-694f-1be5-c26b-27ffc83e6f9e"
+  },
+  {
+    "_score": 24.621574,
+    "id": 16439,
+    "title": "Morning",
+    "date_display": "1760",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Claude Joseph Vernet",
+    "image_id": "e8f3fd3f-2098-1c68-1867-b5dccb21018e"
+  },
+  {
+    "_score": 24.377031,
+    "id": 111646,
+    "title": "Woman Feeding Chickens",
+    "date_display": "1846-48",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Jean Fran\u00e7ois Millet",
+    "image_id": "82224b5e-42bd-cb6e-67c6-ff42e858cac9"
+  },
+  {
+    "_score": 24.32131,
+    "id": 148088,
+    "title": "Westward Ho!/Pioneer Covered Butter Dish",
+    "date_display": "c. 1876",
+    "medium_display": "Glass",
+    "artist_title": "Gillinder and Sons",
+    "image_id": "f84df201-c763-aa31-baa1-356a4323377c"
+  },
+  {
+    "_score": 24.304592,
+    "id": 148052,
+    "title": "Knights of Labor Platter",
+    "date_display": "c. 1870\u20131900",
+    "medium_display": "Glass",
+    "artist_title": "Artist unknown",
+    "image_id": "e51d9717-f407-ddb5-ec41-eb947876bee0"
+  },
+  {
+    "_score": 24.093147,
+    "id": 120157,
+    "title": "Dish",
+    "date_display": "1946\u201355",
+    "medium_display": "Brass",
+    "artist_title": "Ed Wiener",
+    "image_id": "499a489c-cd9d-19bd-3182-aeb386368f09"
+  },
+  {
+    "_score": 24.014715,
+    "id": 148059,
+    "title": "Old Abe/Frosted Eagle Covered Compote on Pedestal",
+    "date_display": "1880\u201390",
+    "medium_display": "Glass",
+    "artist_title": "Crystal Glass Company",
+    "image_id": "da117340-e8d0-a492-80dd-86f3cde66969"
+  },
+  {
+    "_score": 24.00659,
+    "id": 80479,
+    "title": "Winter, from The Seasons",
+    "date_display": "1700/20",
+    "medium_display": "Wool and silk, slit and double interlocking tapestry weave",
+    "artist_title": "Charles Le Brun",
+    "image_id": "9547bd79-e45b-5d25-4442-0a666bb5089e"
+  },
+  {
+    "_score": 23.78053,
+    "id": 71901,
+    "title": "Salver",
+    "date_display": "c. 1850",
+    "medium_display": "Silver",
+    "artist_title": "Haddock, Lincoln & Foss",
+    "image_id": "30e78b06-34cc-8e28-1886-7c9bb93b0ee8"
+  },
+  {
+    "_score": 23.638193,
+    "id": 95189,
+    "title": "Capital",
+    "date_display": "1170\u20131200",
+    "medium_display": "Limestone",
+    "artist_title": "French",
+    "image_id": "5cf2765d-5490-192b-2575-5e5ed95ed398"
+  },
+  {
+    "_score": 23.539103,
+    "id": 218166,
+    "title": "Pair of Sauceboats",
+    "date_display": "c. 1830",
+    "medium_display": "Silver",
+    "artist_title": "Thomas Fletcher",
+    "image_id": "7adc2745-248f-001e-28af-79ab6df0a954"
+  },
+  {
+    "_score": 23.518011,
+    "id": 16373,
+    "title": "Little Girl Pouting",
+    "date_display": "1775\u20131800",
+    "medium_display": "Oil on canvas",
+    "artist_title": "Follower of Jean Baptiste Greuze",
+    "image_id": "ad7deb75-7dce-05dd-3b42-bddea6f51ba6"
+  }
+]
