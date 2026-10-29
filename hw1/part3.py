@@ -4,7 +4,7 @@
 
 from artworks import titles, years
 
-cutoff = 1900  # works made before this year are "old"
+cutoff = 1950  # works made before this year are "old"
 
 for i in range(len(titles)):
     if years[i] > 1900:
